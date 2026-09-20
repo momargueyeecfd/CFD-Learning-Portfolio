@@ -1,0 +1,56 @@
+
+# Rapport technique - Écoulement dans une conduite
+
+Auteur : Momar Gueye
+Projet : 01-Pipe-Flow
+Logiciels : SALOME, OpenFOAM, ParaView
+
+## 1. Introduction
+
+Objectif de la simulation :
+
+## 2. Géométrie
+
+Description et dimensions :
+
+## 3. Maillage
+
+Méthode de génération :
+
+Nombre de cellules :
+
+Qualité du maillage :
+
+## 4. Modèle physique et numérique
+
+Propriétés du fluide :
+
+Nombre de Reynolds :
+
+Solveur utilisé :
+
+Conditions aux limites :
+
+## 5. Résultats
+
+Champ de vitesse :
+
+Champ de pression :
+
+Bilan des débits :
+
+## 6. Vérification et analyse physique
+
+Conservation de la masse :
+
+Convergence :
+
+Sensibilité au maillage :
+
+Interprétation des résultats :
+
+## 7. Conclusion
+
+Principaux enseignements :
+
+Limites de la simulation :
