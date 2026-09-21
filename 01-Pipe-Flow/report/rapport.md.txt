@@ -54,3 +54,33 @@ Interprétation des résultats :
 Principaux enseignements :
 
 Limites de la simulation :
+
+
+## Formation CFD - Jour 1
+
+### Workflow CFD
+
+Une simulation CFD comprend cinq grandes étapes :
+
+1. Définir le problème physique et la géométrie.
+2. Générer un maillage du domaine fluide.
+3. Définir les modèles physiques, les propriétés
+   du fluide et les conditions aux limites.
+4. Résoudre numériquement les équations.
+5. Vérifier, visualiser et interpréter les résultats.
+
+### Logiciels utilisés
+
+- SALOME : géométrie et maillage.
+- OpenFOAM : configuration et résolution numérique.
+- ParaView : visualisation et post-traitement.
+
+### Points importants
+
+Une image CFD ne peut pas être interprétée
+correctement sans identifier la grandeur physique,
+son unité et son échelle de couleurs.
+
+La qualité d'une simulation doit être vérifiée
+à travers la convergence, les bilans de conservation
+et la cohérence physique des résultats.
